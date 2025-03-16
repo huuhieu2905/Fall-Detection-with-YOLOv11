@@ -1,0 +1,11 @@
+frame_camera_opencv/
+frame_fall_detect/
+image_from_video/
+results/
+results_pts/
+.vscode/
+*.jpg
+*.png
+*.mp4
+**/__pycache__/
+*.pt
